@@ -20,14 +20,12 @@ Projetos
  Sabre de luz interativo
 
 Sistema com detecção de impacto via microfone e contagem automática de pontos com display de 7 segmentos.
+link:https://github.com/davidf-gg/Sabre-de-luz
 
  Mini automóvel elétrico
 
 Projeto com direção funcional, setas, faróis e painel com servo motores.
-
-Controle de LEDs via Wi-Fi
-
-Sistema com ESP32 para controle remoto via navegador no celular.
+link:https://github.com/davidf-gg/mini-automovel-eletrico-TCC/blob/main/README.md
 
 Contato
 📞 (11) 98140-2981
