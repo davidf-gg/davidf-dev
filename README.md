@@ -1,32 +1,56 @@
-# davidf-dev
+Sou estudante de Engenharia de Software na FIAP e Técnico em Eletrônica, com experiência prática no desenvolvimento de soluções de software, sistemas embarcados e automação. Tenho interesse em desenvolvimento de sistemas, integração entre hardware e software, Internet das Coisas (IoT) e aplicações que utilizam APIs e processamento de dados.
 
- Davi Dias de Souza Freitas
- 
- Sobre mim
+Ao longo da minha formação acadêmica e técnica, desenvolvi projetos envolvendo Python, Arduino, ESP32, desenvolvimento web e eletrônica, adquirindo experiência prática na criação de soluções completas e funcionais.
 
-Estudante de Engenharia de Software com formação técnica em Eletrônica. Tenho interesse em desenvolvimento de sistemas, eletrônica e Internet das Coisas (IoT), buscando minha primeira oportunidade na área de Tecnologia da Informação.
+Projetos em destaque:
 
-Tecnologias e conhecimentos
+• Câmera Inteligente para Estudos
 
-Arduino e ESP32
-Eletrônica analógica e digital
-Lógica de programação
-Redes Wi-Fi (básico)
-Pacote Office
-Inglês intermediário
+Aplicação desenvolvida em Python integrada à API Gemini para auxiliar estudantes durante sessões de estudo. O sistema utiliza OpenCV para captura de vídeo e ajustes de imagem, como controle de contraste, melhorando a visualização durante o uso. A integração com a IA permite fornecer suporte e funcionalidades inteligentes voltadas ao ambiente de aprendizagem.
 
-Projetos
+GitHub: https://github.com/DAC-Developers-And-Coders/Python-Sprint2
 
- Sabre de luz interativo
+• Landing Page Responsiva
 
-Sistema com detecção de impacto via microfone e contagem automática de pontos com display de 7 segmentos.
-link:https://github.com/davidf-gg/Sabre-de-luz
+Desenvolvimento de uma landing page moderna utilizando HTML e CSS, com foco em responsividade, organização visual e experiência do usuário.
 
- Mini automóvel elétrico
+GitHub: https://github.com/DAC-Developers-And-Coders/Cp-2-Frontend
 
-Projeto com direção funcional, setas, faróis e painel com servo motores.
-link:https://github.com/davidf-gg/mini-automovel-eletrico-TCC/blob/main/README.md
+• Sabre de Luz Interativo
 
-Contato
-📞 (11) 98140-2981
-✉️ dias.davi.s.freitas@icloud.com
+Sistema desenvolvido com Arduino capaz de detectar impactos por meio de um microfone, realizando a contagem automática de pontos e exibindo as informações em um display de 7 segmentos.
+
+GitHub: https://github.com/davidf-gg/Sabre-de-luz
+
+• Mini Automóvel Elétrico
+
+Projeto de veículo elétrico em escala desenvolvido com direção funcional, setas, faróis, painel de instrumentos e utilização de servo motores, aplicando conceitos de eletrônica, automação e controle embarcado.
+
+GitHub: https://github.com/davidf-gg/mini-automovel-eletrico-TCC
+
+Tecnologias:
+
+• Python
+• Arduino
+• ESP32
+• HTML
+• CSS
+• APIs REST
+• OpenCV
+• Integração com IA (Gemini)
+• Sistemas Embarcados
+• Eletrônica Analógica e Digital
+• IoT (Internet das Coisas)
+• Lógica de Programação
+• Redes Wi-Fi
+• Pacote Office
+
+Formação:
+
+• Engenharia de Software – FIAP (em andamento)
+• Técnico em Eletrônica
+
+GitHub:
+https://github.com/davidf-gg
+
+Estou em constante evolução profissional e acadêmica, buscando oportunidades para aplicar meus conhecimentos em projetos de tecnologia, automação, desenvolvimento web, inteligência artificial e desenvolvimento de software. Tenho compromisso com a qualidade das entregas, comunicação clara e cumprimento de prazos.
